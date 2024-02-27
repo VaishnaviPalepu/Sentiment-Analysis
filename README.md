@@ -18,13 +18,20 @@ Performance Metrics:
 - Evaluation metrics: accuracy, precision, recall, F1-score.
 
 - Individual Algorithm Performance:
-    Random Forest: 
+    Random Forest:
+  
     Accuracy:90%
+  
     Naive Bayes:
+  
     Accuracy:81%
-    Logistic Regression: 
+  
+    Logistic Regression:
+  
     Accuracy:90%
+  
     SVM (before hyperparameter tuning):
+  
     Accuracy:93%
   
 - Hyperparameter Tuning for SVM:
