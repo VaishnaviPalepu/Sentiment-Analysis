@@ -37,16 +37,22 @@ Performance Metrics:
 - Hyperparameter Tuning for SVM:
 
 Method: Grid search with cross-validation.
+
 Parameters tuned: C, kernel.
+
 Improved performance metrics: 
+
 Accuracy:93%
+
 Induvidual metrics such as precision,recall and f1-score have improved after tuning.
 
 - Explanation for SVM's Success:
+- 
 Dataset characteristics favorable for SVM.
 SVM's ability to handle high-dimensional data.
 Specific strengths of SVM compared to other algorithms.
 
 - Conclusion:
+- 
 SVM was selected as the final model due to its superior performance after hyperparameter tuning.
 The analysis demonstrates the effectiveness of SVM for sentiment analysis on the given dataset.
